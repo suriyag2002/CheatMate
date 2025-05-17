@@ -1,7 +1,6 @@
 import streamlit as st
 import base64
 
-# Sample cheatsheets with explanations
 CHEATSHEETS = {
     "python": """
 **Python Cheatsheet**
